@@ -1,0 +1,6 @@
+shakespeare.py
+saved_weights/
+saved_weights/**
+data/**
+src/__pycache__
+.DS_Store
